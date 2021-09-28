@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CoderPY4&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 <a href="https://www.buymeacoffee.com/coderpy4"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=coderpy4&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 <!--
