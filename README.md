@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Andrii, a junior developer 👨‍💻 studying programming since 2016 🕶️</div>  
+### <div align="center">I'm Andrii, a developer 👨‍💻 studying programming since 2016 🕶️</div>  
   
 
 - 📚 I’m currently studying in school  
