@@ -9,9 +9,6 @@
 - 📚 I’m currently studying in school  
   
 
-- ☕ I’m currently learning Java  
-  
-
 - 🐧 Fun fact: I use Linux BTW...  
   
 
