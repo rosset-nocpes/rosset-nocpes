@@ -2,18 +2,18 @@
 <img src="greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Andrii, a developer 👨‍💻 studying programming since 2016 🕶️</div>  
   
-
 - 📚 I’m currently studying in school  
   
-
 - 🐧 Fun fact: I use Linux BTW...  
-  
 
+- <img src="undertale.png" align="center" /> I love Undertale. Papirus <3
+
+- <img src="stranger_things.png" width=64 align="center" />  **one love!**
 
 ## Connect with me  
+
 <div align="center">
 <a href="https://github.com/coderpy4" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -29,11 +29,10 @@
 </a>  
 </div>  
   
-
 <br/>  
 
-
 ## Github Stats  
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=coderpy4&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -45,7 +44,7 @@
 <div align="center">
             <a href="https://www.buymeacoffee.com/coderpy4" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
                     align="center"
                 />
             </a></div>
