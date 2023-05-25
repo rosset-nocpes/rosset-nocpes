@@ -12,6 +12,19 @@
 
 - <img src="stranger_things.png" width=64 align="center" />  **one love!**
 
+
+## Skills
+<div align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg" />
+ </div>
+
+
 ## Connect with me  
 
 <div align="center">
