@@ -13,7 +13,21 @@
 - <img src="stranger_things.png" width=64 align="center" />  **one love!**
 
 
-## Skills
+## <p align="center">What I Use</p>
+<div align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg" />
+</div>
+
+
+## <p align="center">Skills</p>
 <div align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg" />
@@ -25,7 +39,7 @@
  </div>
 
 
-## Connect with me  
+## <p align="center">Connect with me</p>
 
 <div align="center">
 <a href="https://github.com/coderpy4" target="_blank">
@@ -44,7 +58,7 @@
   
 <br/>  
 
-## Github Stats  
+## <p align="center">Github Stats</p>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=coderpy4&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -57,7 +71,7 @@
 <div align="center">
             <a href="https://www.buymeacoffee.com/coderpy4" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
+                    src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg"
                     align="center"
                 />
             </a></div>
