@@ -36,6 +36,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg" />
  </div>
 
 
