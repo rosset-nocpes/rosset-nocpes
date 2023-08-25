@@ -1,5 +1,5 @@
 <div align="center">
-<img src="greetings.gif" align="center" style="width: 100%" />
+<img src="greetings.gif" align="center" style="width: 100%; border-radius: 16px" />
 </div>  
   
 ### <div align="center">I'm Andrii, a developer 👨‍💻 studying programming since 2016 🕶️</div>  
