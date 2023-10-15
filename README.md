@@ -54,9 +54,14 @@
 </a>
 <a href="https://www.youtube.com/user/coderpy4" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+</a>
+</div>
+<div align="center">
+  <a href="https://discord.com/users/416254813454467073" target="_blank">
+      <img src=https://lanyard.cnrad.dev/api/416254813454467073 alt=discord />
+  </a>
+</div>
+
 <br/>  
 
 ## <p align="center">Github Stats</p>  
