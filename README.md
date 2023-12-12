@@ -39,23 +39,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg" />
  </div>
 
-
-## <p align="center">Connect with me</p>
-
-<div align="center">
-<a href="https://github.com/coderpy4" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://fosstodon.org/@coderpy4" target="_blank">
-<img src=https://img.shields.io/badge/mastodon-6364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white alt=mastodon style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/coderpy.4" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/coderpy4" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-</div>
 <div align="center">
   <a href="https://discord.com/users/416254813454467073" target="_blank">
       <img src=https://lanyard.cnrad.dev/api/416254813454467073 alt=discord />
