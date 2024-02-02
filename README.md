@@ -18,11 +18,9 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud2.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg" />
 </div>
 
@@ -32,8 +30,8 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg" />
