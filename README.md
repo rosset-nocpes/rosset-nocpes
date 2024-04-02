@@ -51,10 +51,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=18djc6wrp2msr80u35yd4bjzj&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-<br/>  
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/coderpy4" target="_blank" style="display: inline-block;">
                 <img
