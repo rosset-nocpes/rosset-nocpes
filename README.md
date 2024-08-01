@@ -4,7 +4,7 @@
 
 ## <p align="center">What I Use</p>
 <div align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" />
