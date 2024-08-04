@@ -35,9 +35,9 @@
 <br/>
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/coderpy4" target="_blank" style="display: inline-block;">
+            <a href="https://ko-fi.com/rossetnocpes" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg"
+                    src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi2.svg"
                     align="center"
                 />
             </a></div>
