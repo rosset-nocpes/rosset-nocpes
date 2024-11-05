@@ -24,14 +24,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" />
  </div>
 
- <br/>
-
-<div align="center">
-  <a href="https://discord.com/users/416254813454467073" target="_blank">
-      <img src=https://lanyard.cnrad.dev/api/416254813454467073 alt=discord />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
