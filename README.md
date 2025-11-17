@@ -16,9 +16,8 @@
 
 ## <p align="center">Skills</p>
 <div align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" />
